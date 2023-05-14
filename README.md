@@ -50,11 +50,3 @@ I finished emergency medical technician in high school and autopsy assistant (as
 </td></tr></table>
 
 <br/>
-
-<br/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=turancan-p&&style=flat-square)
-
-<br/>
-
-<br />
