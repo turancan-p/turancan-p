@@ -10,8 +10,7 @@
 <a href="https://instagram.com/turancan.pamuk" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 ### About Me
 
@@ -59,7 +58,3 @@ I finished emergency medical technician in high school and autopsy assistant (as
 <br/>
 
 <br />
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
