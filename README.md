@@ -39,14 +39,15 @@ I finished emergency medical technician in high school and autopsy assistant (as
 
 ## Github Stats
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=turancan-p&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turancan-p&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
+<table>
+  <tr align="center">
+    <td valign="top" width="49%">
+      <img src="https://github-readme-stats.vercel.app/api?username=turancan-p&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turancan-p&hide_border=true&layout=compact" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
