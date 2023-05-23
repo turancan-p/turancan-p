@@ -1,4 +1,4 @@
-## <div align="center">Hey 👋, I'm Turan Can!</div>
+## <div align="center">Hey, I'm Turan Can.</div>
 
 <div align="center">
 <a href="https://github.com/turancan-p" target="_blank">
