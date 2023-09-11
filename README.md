@@ -12,12 +12,6 @@
 </a>  
 </div>
 
-### About Me
-
-I finished emergency medical technician in high school and autopsy assistant (associate degree) at university. Since the software industry is an area that I have been interested in for a long time, I did some research and decided to start in September 2022. First I did a few small projects using Python language and one that could be big for a start. Then I started learning web development as I wanted to publish this medium sized project on the web. First I learned HTML & CSS, then I started learning Javascript. I tried different frameworks, I first started learning ReactJS and got my first job as a freelancer here. In order to improve myself even more, I do research every day and do small-medium-sized projects all the time. I share some of my projects on Github. Currently, I am advancing by focusing on the backend area and I am doing projects to improve myself with Node JS (express) and Typescript. I am open to trying new things and learning. Since I am determined to learn, I think that I have made a good progress in a short time. I have a calm but assertive personality, suitable for teamwork, open to different ideas and opinions.
-
-<br/>
-
 ## Languages and Tools
 
 <div align="center">  
