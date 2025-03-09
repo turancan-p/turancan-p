@@ -9,11 +9,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turancan-p&theme=dark" alt="turancan-p" />
 </p>
 <a href="https://github.com/turancan-p">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=turancan-p&count_private=true&theme=radical&show_icons=true&hide=stars"/>
-
+  
   [![Turancan-pGrap](https://github-readme-activity-graph.vercel.app/graph?username=turancan-p&hide_border=true&theme=xcode)](https://turan-can.com/)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=turancan-p&theme=onedark)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/turancan-p))
+  [![trophy](https://github-profile-trophy.vercel.app/?username=turancan-p&theme=onedark)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/turancan-p))
 
 
 ## Skills
