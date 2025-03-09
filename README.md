@@ -25,10 +25,10 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,nextjs,bootstrap,tailwind&includeNames=true&theme=darkmode)](https://turan-can.com/)
 
 
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff016e)](electwix.dev)
-[![](https://img.shields.io/badge/Linux-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=ff016e)](https://electwix.dev/)
-[![](https://img.shields.io/badge/Editor-Nvim-informational?style=flat&logo=neovim&logoColor=white&color=ff016e)](https://electwix.dev/)
-[![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=ff016e)](https://electwix.dev/)
+[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ff016e)](https://turan-can.com/)
+[![](https://img.shields.io/badge/Linux-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=ff016e)](https://turan-can.com/)
+[![](https://img.shields.io/badge/Editor-Nvim-informational?style=flat&logo=neovim&logoColor=white&color=ff016e)](https://turan-can.com/)
+[![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=ff016e)](https://turan-can.com/)
 
 
 
