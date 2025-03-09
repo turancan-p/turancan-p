@@ -1,6 +1,6 @@
 <div align="center">
   
-[![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Turancan's%20profile&fontSize=50&animation=twinkling&desc=Welcome%20to%20my%20profile&fontAlignY=35&descAlignY=50)](https://turan-can.com/)
+[![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Turancan-p&fontSize=50&animation=twinkling&desc=Welcome%20to%20my%20profile&fontAlignY=35&descAlignY=50)](https://turan-can.com/)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=turancan-p&data=followers,repositories,stars,commits&theme=carbon)]()
 
