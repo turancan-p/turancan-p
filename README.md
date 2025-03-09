@@ -19,7 +19,7 @@
 
 [![](https://github-widgetbox.vercel.app/api/skills?names=ts,js,go,python&includeNames=true&theme=darkmode)](https://turan-can.com/)
   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,nodejs,nginx&includeNames=true&theme=darkmode)](https://turan-can.com/)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,nodejs,nginx&includeNames=true&theme=darkmode)](https://turan-can.com/)
   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,nextjs,bootstrap,tailwind&includeNames=true&theme=darkmode)](https://turan-can.com/)
 
