@@ -5,12 +5,9 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=turancan-p&data=followers,repositories,stars,commits&theme=carbon)]()
 
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turancan-p&theme=dark" alt="turancan-p" />
-</p>
+
 <a href="https://github.com/turancan-p">
-  
-  [![Turancan-pGrap](https://github-readme-activity-graph.vercel.app/graph?username=turancan-p&hide_border=true&theme=xcode)](https://turan-can.com/)
+
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=turancan-p&theme=onedark)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/turancan-p))
 
